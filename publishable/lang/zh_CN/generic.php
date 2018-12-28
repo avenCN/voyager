@@ -87,4 +87,5 @@ return [
     'viewing'                => '查看',
     'yes'                    => '是',
     'yes_please'             => '是的，就这样做',
+    'none'                   => '空'
 ];
