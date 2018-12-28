@@ -8,4 +8,6 @@ return [
     'password_hint' => '留空为不修改密码',
     'role'          => '权限',
     'user_role'     => '用户权限',
+    'role_default'  => '默认角色',
+    'roles_additional'=>'附加角色'
 ];
